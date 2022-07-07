@@ -1,0 +1,10 @@
+C:\Masaüstü\ChatProgram\TCPChatProgram\bin\Debug\TCPChatProgram.exe.config
+C:\Masaüstü\ChatProgram\TCPChatProgram\bin\Debug\TCPChatProgram.exe
+C:\Masaüstü\ChatProgram\TCPChatProgram\bin\Debug\TCPChatProgram.pdb
+C:\Masaüstü\ChatProgram\TCPChatProgram\obj\Debug\TCPChatProgram.csprojAssemblyReference.cache
+C:\Masaüstü\ChatProgram\TCPChatProgram\obj\Debug\TCPChatProgram.Form1.resources
+C:\Masaüstü\ChatProgram\TCPChatProgram\obj\Debug\TCPChatProgram.Properties.Resources.resources
+C:\Masaüstü\ChatProgram\TCPChatProgram\obj\Debug\TCPChatProgram.csproj.GenerateResource.cache
+C:\Masaüstü\ChatProgram\TCPChatProgram\obj\Debug\TCPChatProgram.csproj.CoreCompileInputs.cache
+C:\Masaüstü\ChatProgram\TCPChatProgram\obj\Debug\TCPChatProgram.exe
+C:\Masaüstü\ChatProgram\TCPChatProgram\obj\Debug\TCPChatProgram.pdb
